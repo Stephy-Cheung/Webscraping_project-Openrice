@@ -2,10 +2,6 @@
 
 # Web-scrapping project on Openrice
 
-# Title
-
-![banner]()
-
 ![badge]()
 ![badge]()
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
