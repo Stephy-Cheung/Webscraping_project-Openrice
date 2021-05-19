@@ -13,15 +13,15 @@ This is my first project using Python. We use web-scraping to collect restaurant
 - [Analysis](#Analysis)
 - [Conclusion](#Conclusion)
 - [Challenge](#Challenge)
-- [Room for Improvement & future application](#Room_for_Improvement)
+- [Room for Improvement & future application](#Room_for_Improvement_&_future_application)
 
 
-## Project background & aim
+## Project_background_&_aim
 In this project, we are a group of consultants that offer advice to help our client, a Japanese Food Inc, to open a Japanese restaurant on the Hong Kong Island. We will use web scraping to understand the Japanese restaurant market on the Hong Kong Island and provide suitable business advice on the restaurant location, menu price range and types of Japanese food. <br>
 
 Our aim is to provide suggestion for the most profitable combination of restaurant location, menu price range and types of Japanese food for the new restaurant.
 
-## Data Collection
+## Data_Collection
 Web scraping was preformed on the search result of Japanese restaurant on Hong Kong Island in Openrice.com. <br>
 
 <img src="image/example.png" width="600">
@@ -37,7 +37,7 @@ Here is an example of the restaurant information that provided from that search 
 
 <img src="image/code_restaurant_info.png" width="600">
 
-## Data Preprocessing & assumption
+## Data_Preprocessing
 In data preprocessing, duplicated data was dropped according to unqiue res_id provide by Openrice.com and we have screened out restaurant that with number of reviews less than 5. <br>
 <img src="image/code_preprocess.png" width="600">
 
@@ -78,7 +78,7 @@ As a conclusion, we would recommend our client to open the new restaurant as an 
 
 2. Invalid entries - Invalid entries in 'District' and 'cuisine' found and amended manually during data processing mentioned in the above section.
 
-## Room for Improvement & future application
+## Room_for_Improvement_&_future_application
 To further enhance the project, a more sophisticated model is required to better evaluate the profitability and popularity of the restaurants. Consider additional data source such as websites like TripAdvisor, revenue of individual restaurant and timeframe of the reviews would further improve the validity of our analysis.  <br>
 
 The above analysis can be applied on various cuisine and locations in Hong Kong to assist different restaurant opening.
