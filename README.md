@@ -6,17 +6,17 @@ This is my first project using Python. We use web-scraping to collect restaurant
 
 ## Table of Contents
 
-- [Project background & aim](#Project_background)
+- [Project background & aim](#Project_background_and_aim)
 - [Data Collection](#Data_Collection)
 - [Data Preprocessing](#Data_Preprocessing)
 - [Assumption](#Assumption)
 - [Analysis](#Analysis)
 - [Conclusion](#Conclusion)
 - [Challenge](#Challenge)
-- [Room for Improvement & future application](#Room_for_Improvement)
+- [Room for Improvement & future application](#Room_for_Improvement_and_future_application)
 
 
-## Project_background & aim
+## Project_background_and_aim
 In this project, we are a group of consultants that offer advice to help our client, a Japanese Food Inc, to open a Japanese restaurant on the Hong Kong Island. We will use web scraping to understand the Japanese restaurant market on the Hong Kong Island and provide suitable business advice on the restaurant location, menu price range and types of Japanese food. <br>
 
 Our aim is to provide suggestion for the most profitable combination of restaurant location, menu price range and types of Japanese food for the new restaurant.
@@ -78,7 +78,7 @@ As a conclusion, we would recommend our client to open the new restaurant as an 
 
 2. Invalid entries - Invalid entries in 'District' and 'cuisine' found and amended manually during data processing mentioned in the above section.
 
-## Room_for_Improvement _&_future_application
+## Room_for_Improvement_and_future_application
 To further enhance the project, a more sophisticated model is required to better evaluate the profitability and popularity of the restaurants. Consider additional data source such as websites like TripAdvisor, revenue of individual restaurant and timeframe of the reviews would further improve the validity of our analysis.  <br>
 
 The above analysis can be applied on various cuisine and locations in Hong Kong to assist different restaurant opening.
